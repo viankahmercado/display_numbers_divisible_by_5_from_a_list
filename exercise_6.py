@@ -17,3 +17,4 @@ def check_divisible_by_5(numbers):
 # make the list as variable
 given_list = [10, 20, 33, 46, 55]
 # check the logic by print
+check_divisible_by_5(given_list)
