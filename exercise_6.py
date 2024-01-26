@@ -9,5 +9,5 @@
 # create a function to print divisible by 5
 
 # make the list as variable
-
+given_list = [10, 20, 33, 46, 55]
 # check the logic by print
