@@ -7,6 +7,12 @@
 # Iterate the given list of numbers and print only those numbers which are divisible by 5
 
 # create a function to print divisible by 5
+def check_divisible_by_5(numbers):
+    print("Given list:", numbers)
+    print('\nNumbers divisible by 5:')
+    for num in numbers:
+        if num % 5 == 0:
+            print(num)
 
 # make the list as variable
 given_list = [10, 20, 33, 46, 55]
